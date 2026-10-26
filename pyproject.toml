@@ -1,0 +1,9 @@
+[project]
+name = "autopark"
+version = "0.1.0"
+description = "Sistema de gestión de estacionamiento AutoPark para Programación I"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.uv]
+package = false

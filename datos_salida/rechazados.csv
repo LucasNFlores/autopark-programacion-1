@@ -1,0 +1,4 @@
+﻿id,patente,tipo_vehiculo,entrada,salida,motivo,registro_original
+MOV031,BH123JJ,auto,18:00,15:00,La salida es anterior a la entrada.,"{""id"": ""MOV031"", ""patente"": ""BH123JJ"", ""tipo_vehiculo"": ""auto"", ""entrada"": ""18:00"", ""salida"": ""15:00"", ""solicito_lavado"": false}"
+MOV032,BJ234KK,tractor,10:00,12:00,"El tipo de vehículo debe ser auto, moto o camioneta.","{""id"": ""MOV032"", ""patente"": ""BJ234KK"", ""tipo_vehiculo"": ""tractor"", ""entrada"": ""10:00"", ""salida"": ""12:00"", ""solicito_lavado"": false}"
+MOV033,PATENTE99,auto,11:00,13:00,La patente debe tener el formato AAA000 o AA000AA. Para motos también se acepta A000AAA o 000AAA.,"{""id"": ""MOV033"", ""patente"": ""PATENTE99"", ""tipo_vehiculo"": ""auto"", ""entrada"": ""11:00"", ""salida"": ""13:00"", ""solicito_lavado"": false}"
